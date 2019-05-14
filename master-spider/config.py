@@ -1,5 +1,5 @@
 # Redis数据库地址
-REDIS_HOST = '47.94.86.107'
+REDIS_HOST = 'Redis_serve_IP'
 
 # Redis端口
 REDIS_PORT = 6379
@@ -15,4 +15,4 @@ REDIS_DB=0
 START_URL='https://weibo.cn/u/5644764907?page=1'
 
 #cookies池地址
-COOKIES_URL="http://47.94.86.107:5000/weibo/random"
+COOKIES_URL="http://IP:5000/weibo/random"
