@@ -20,7 +20,7 @@ SCHEDULER_PERSTS=True
 REDIS_HOST ="127.0.0.1"
 REDIS_PORT = 6379
 
-MONGO_URL='152.136.72.239'
+MONGO_URL='Mongodbserve_IP'   #你的mongodb服务器ip
 MONGO_DB='Weibo'
 
 COOKIES_URL='http://127.0.0.1:5000/weibo/random'
